@@ -1,0 +1,7 @@
+base     gozhevru
+author   Mikhail Gozhev
+email    m@gozhev.ru
+date     2021-10-26
+name     gozhev.ru Template
+desc     Minimalist template
+url      https://gozhev.ru
